@@ -1,2 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://Meekdai.github.io/Gmeek-template</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://Meekdai.github.io/Gmeek-template</link></image><lastBuildDate>Thu, 14 Mar 2024 09:17:29 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>请接着之后的安装步骤执行</title><link>https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</link><description>如果你点击了`READM.md`的链接后，看到了这个页面，请继续之后的安装步骤执行。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/qing-jie-zhao-zhi-hou-de-an-zhuang-bu-zou-zhi-xing.html</guid><pubDate>Thu, 14 Mar 2024 09:15:10 +0000</pubDate></item><item><title>这是Gmeek模板仓库</title><link>https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</link><description>通过这个模板创建库，可以大大减少部署Gmeek博客的配置步骤。</description><guid isPermaLink="true">https://Meekdai.github.io/Gmeek-template/post/zhe-shi-Gmeek-mo-ban-cang-ku.html</guid><pubDate>Wed, 20 Dec 2023 07:42:24 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://skatyx2024.github.io/skatyx2024</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://skatyx2024.github.io/skatyx2024</link></image><lastBuildDate>Fri, 20 Sep 2024 05:46:28 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>关于我的博客</title><link>https://skatyx2024.github.io/skatyx2024/post/guan-yu-wo-de-bo-ke.html</link><description># 关于我的博客&#13;
+&#13;
+    你好，我是樱行，感谢你浏览我的博客&#13;
+    我是一个热爱生活的14岁的UP&#13;
+    在这里我会分享我的生活点滴，技术教程，以及我的MC服务器等&#13;
+    希望对感兴趣的你们共同交流，共同进步！&#13;
+&#13;
+## 关于我&#13;
+    我是一个初三的学生&#13;
+    热爱Minecraft&#13;
+    MC樱行服务器服主&#13;
+    QQ机器人樱行姬开发者&#13;
+&#13;
+## 博客内容&#13;
+### 这个博客将主要包含以下几类内容：&#13;
+    1.[专业领域]: 我会分享实用内容、技术分享等。</description><guid isPermaLink="true">https://skatyx2024.github.io/skatyx2024/post/guan-yu-wo-de-bo-ke.html</guid><pubDate>Fri, 20 Sep 2024 05:36:27 +0000</pubDate></item></channel></rss>
